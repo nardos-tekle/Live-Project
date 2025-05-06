@@ -351,7 +351,7 @@ top_installed_categories.to_csv("topinstalled_categories.csv")
 trend_time.to_csv("trend_time.csv")
 ```
 
-Power BI Visualizations:
+**Power BI Visualizations:**
 
 For the analysis on `Installs` and `Ratings` against `Price Type` I created a ribbon barplot. I chose this because of its nice feature in visualizing the distribution between the two variables. As well as, listing the difference in Ratings and Installs for in apps that are Free or Paid.
 
