@@ -106,6 +106,7 @@ Showcasing that there aren't as many entertainment apps rated for mature audienc
   - Entertainment
   - Social
   - Productivity
+    
 **Additional Tasks:**
 - The client would like to know how many of the apps in each category are free or paid.
 - The client would like to know which app in each category is the highest priced and which app is the lowest priced.
