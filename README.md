@@ -19,7 +19,7 @@ In this report, I’ll briefly walk through the methodology, key findings, and t
         - Pandas, Numpy, Plotly, Seaborn, Matplotlib 
      - Rstudio
          - Dplyr, Tibble, Gt, Scales, Plotly, Tidyverse
-* Dataset: [googleplaystore.dataset (col: 13, rows: 10842)](https://github.com/nardos-tekle/Live-Project/blob/main/Media/googleplaystoremaster.xlsx) 
+* Dataset: [googleplaystore(col: 13, rows: 10842)](https://github.com/nardos-tekle/Live-Project/blob/main/Media/googleplaystoremaster.xlsx) 
 
 ## User Stories:
 * [Content Rating](#user-story-1-content-rating)
@@ -27,7 +27,12 @@ In this report, I’ll briefly walk through the methodology, key findings, and t
 * [Rating vs Installs](#user-story-3-ratings-vs-installs)
 * [Data Analysis](#user-story-4-data-analysis)
 
-* Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), [User Story 1] (#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
+
+*Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
+[User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
+
 ##
 
 ## User Story 1: Content Rating
