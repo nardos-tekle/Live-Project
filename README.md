@@ -19,7 +19,7 @@ In this report, I’ll briefly walk through the methodology, key findings, and t
         - Pandas, Numpy, Plotly, Seaborn, Matplotlib 
      - Rstudio
          - Dplyr, Tibble, Gt, Scales, Plotly, Tidyverse
-* Dataset: [googleplaystore(col: 13, rows: 10842)](https://github.com/nardos-tekle/Live-Project/blob/main/Media/googleplaystoremaster.xlsx) 
+* Dataset: [googleplaystore(col: 13 rows: 10842)](https://github.com/nardos-tekle/Live-Project/blob/main/Media/googleplaystoremaster.xlsx) 
 
 ## User Stories:
 * [Content Rating](#user-story-1-content-rating)
@@ -108,6 +108,13 @@ There is a total of six entertainment apps that are rated Mature. The average us
 Showcasing that there aren't as many entertainment apps rated for mature audiences, through these visualizations they might highlight the small number of apps that are and how they perform in terms of user feedback. 
 
 
+
+*Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
+[User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
+
+
+
 ## User Story 2: Apps per Category
 **Request:** The client requested for the amount of apps in certain categories from the following categories: 
   - Entertainment
@@ -178,6 +185,12 @@ For the last analysis, I used a tooltip scatterplot representing the top 5 highe
 The app store landscape shows clear trends across Entertainment, Social, and Productivity categories. Productivity leads in app count (301), followed by Social (203) and Entertainment (102). The vast majority of apps are free (584), with only 22 being paid, indicating a strong preference for free content among users. Interestingly, the Social category had only one paid app, priced modestly at $0.99.
 
 Pricing insights show that Productivity apps dominate the high-end market, with the top five most expensive apps all falling within that category—topping out at $8.99. Entertainment apps fall in the mid-range ($2.99–$4.99), while Social apps have the narrowest pricing. These findings highlight where monetization opportunities lie and can guide future app development and marketing strategies
+
+
+
+*Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
+[User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
 
 
 
@@ -264,6 +277,12 @@ Lastly, to better visualize the distribution of installs by categories and conte
 The data reveals a clear correlation between content rating and app installs. Apps rated “Everyone” have the highest install volume (~50B) and appear in the most categories (33), suggesting that broader accessibility directly contributes to greater reach. Similarly, “Teen” and “Everyone 10+” also perform well, though at lower scales, while age-restricted ratings like “Mature 17+” and “Adults only 18+” see far fewer installs and are present in fewer categories.
 
 This suggests that the more inclusive the content rating, the higher the potential for downloads and category coverage. For the client, this means prioritizing “Everyone” or similarly broad ratings could help maximize visibility and user engagement across the app market.
+
+
+
+*Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
+[User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
 
 
 ## User Story 4: Data Analysis
@@ -395,6 +414,11 @@ Final analysis on Categorical trends by the years, I created a line chart to vis
 
 
 
+*Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
+[User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
+
+
 ## Key Skills & Lessons Learned
 
 ### Adapted to Independent Scrum Development:
@@ -416,3 +440,6 @@ This project really expanded my thinking around how to structure and grow my ana
 ### Real-World Application:
 
 Even though the sprint was short, the hands-on nature of the work gave me a realistic glimpse into what it's like to handle and analyze messy, real-world data. The lessons I’ve learned—both technical and practical—will definitely carry over into future projects and data-related roles.
+
+*Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
+[User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
