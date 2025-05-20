@@ -33,6 +33,7 @@ In this report, I’ll briefly walk through the methodology, key findings, and t
 [User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
 
 
+
 ##
 
 ## User Story 1: Content Rating
@@ -115,6 +116,8 @@ Showcasing that there aren't as many entertainment apps rated for mature audienc
 
 
 
+
+
 ## User Story 2: Apps per Category
 **Request:** The client requested for the amount of apps in certain categories from the following categories: 
   - Entertainment
@@ -190,6 +193,9 @@ Pricing insights show that Productivity apps dominate the high-end market, with 
 
 *Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
 [User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
+
+
 
 
 
@@ -282,6 +288,10 @@ This suggests that the more inclusive the content rating, the higher the potenti
 
 *Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
 [User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
+
+
+
 
 
 
@@ -416,6 +426,10 @@ Final analysis on Categorical trends by the years, I created a line chart to vis
 
 *Jump To: [Introduction](#introduction), [Core Technology](core-technologies), [User Stories list](#user-stories), 
 [User Story 2](#user-story-1-content-rating), [User Story 2](#user-story-2-apps-per-category), [User Story 3](#user-story-3-ratings-vs-installs), [User Story 4](#user-story-4-data-analysis), [Key Skills & Learning](#key-skills-learning)*
+
+
+
+
 
 
 
