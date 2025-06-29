@@ -3,7 +3,7 @@
 ## Introduction
 **Role:** Data Scientist
 
-Google Play Store App Insights is a data-driven project I worked on as a Data Scientist through The Tech Academy, focusing on analyzing the Google Play Store dataset. The dataset included key app metrics such as installs, categories, prices, content ratings, genres, and update/version information. My work was managed using Microsoft Azure DevOps, and the project followed a Scrum-based methodology—complete with daily standups, sprint planning, and retrospectives to simulate a collaborative development environment.
+Google Play Store App Insights is a data-driven project I worked on as a Data Scientist, focusing on analyzing the Google Play Store dataset. The dataset included key app metrics such as installs, categories, prices, content ratings, genres, and update/version information. My work was managed using Microsoft Azure DevOps, and the project followed a Scrum-based methodology—complete with daily standups, sprint planning, and retrospectives to simulate a collaborative development environment.
 
 Throughout the sprint, I completed four user stories that each focused on data cleaning, filtering, and visualization to help inform future decisions around app sales and strategy. I primarily used Python (Jupyter Notebook), RStudio, and Power BI to conduct my analysis and create visual insights.
 
