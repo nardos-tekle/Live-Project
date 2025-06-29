@@ -1,4 +1,4 @@
-# Tech Academy Live-Project
+# Google Play Store App Project - Prosper IT Consulting
 
 ## Introduction
 **Role:** Data Scientist
